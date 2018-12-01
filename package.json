@@ -1,0 +1,14 @@
+{
+  "name": "responsehandler",
+  "version": "1.0.0",
+  "description": "This library is useful for handling error and response in an abstract way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pravin Lolage <pravindot17@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "util": "^0.11.1"
+  }
+}

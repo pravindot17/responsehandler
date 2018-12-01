@@ -1,0 +1,6 @@
+{
+    "E1001": "This is unauthorised error",
+    "E1002": "This is forbidden error",
+    "E1003": "This is bad request",
+    "E1004": "Requested resource is not found"
+}
